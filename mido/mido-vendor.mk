@@ -689,7 +689,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mido/proprietary/vendor/bin/btnvtool:system/vendor/bin/btnvtool \
     vendor/xiaomi/mido/proprietary/vendor/bin/cnd:system/vendor/bin/cnd \
     vendor/xiaomi/mido/proprietary/vendor/bin/energy-awareness:system/vendor/bin/energy-awareness \
-    vendor/xiaomi/mido/proprietary/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
     vendor/xiaomi/mido/proprietary/vendor/bin/hvdcp_opti:system/vendor/bin/hvdcp_opti \
     vendor/xiaomi/mido/proprietary/vendor/bin/hw/rild:system/vendor/bin/hw/rild \
     vendor/xiaomi/mido/proprietary/vendor/bin/hw/vendor.qti.gnss@1.0-service:system/vendor/bin/hw/vendor.qti.gnss@1.0-service \
@@ -711,7 +710,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mido/proprietary/vendor/bin/qti:system/vendor/bin/qti \
     vendor/xiaomi/mido/proprietary/vendor/bin/rmt_storage:system/vendor/bin/rmt_storage \
     vendor/xiaomi/mido/proprietary/vendor/bin/sensors.qcom:system/vendor/bin/sensors.qcom \
-    vendor/xiaomi/mido/proprietary/vendor/bin/slim_daemon:system/vendor/bin/slim_daemon \
     vendor/xiaomi/mido/proprietary/vendor/bin/tftp_server:system/vendor/bin/tftp_server \
     vendor/xiaomi/mido/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/xiaomi/mido/proprietary/vendor/bin/time_daemon:system/vendor/bin/time_daemon \
